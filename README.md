@@ -56,8 +56,8 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200🔢
-|                          |
+|       1200              |                          |
+|       1201              |                          |
 
 #### Manual Calculations
 
@@ -66,6 +66,8 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="647" height="427" alt="add" src="https://github.com/user-attachments/assets/605833e3-ae13-4fae-8934-4fe5596d3478" />
+
 
 ## 2. SUBTRACTION
 
